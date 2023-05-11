@@ -2,6 +2,13 @@
 layout: default
 ---
 
+Fale comigo no WhatsApp [clicando aqui](https://wa.me/qr/N7ZWKXS2XDGHL1)
+
+Ou escanei o qr code:
+
+![QR code](../images/wz.png)
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
