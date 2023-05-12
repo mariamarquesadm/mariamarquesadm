@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+
+
 ## Sobre Mim 
 
 Oi, eu sou Maria Aparecida Marques, Administradora de Empresas, especialista em gestão e aperfeiçoamento de pessoas com enfase em ofertas digitais.
@@ -116,7 +118,7 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
--->
+
 
 ### Definition lists can be used with HTML syntax.
 
@@ -138,3 +140,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
