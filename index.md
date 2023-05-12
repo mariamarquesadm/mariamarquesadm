@@ -2,9 +2,14 @@
 layout: default
 ---
 
+Fale comigo no WhatsApp [clicando aqui](https://wa.me/qr/N7ZWKXS2XDGHL1)
+
+
 Ou escanei o qr code:
 
 ![QR code](mariamarquesadm.github.io/images/wz.png)
+
+jnhujh
 
 
 ## Sobre Mim 
@@ -18,7 +23,6 @@ Oi, eu sou Maria Aparecida Marques, Administradora de Empresas, especialista em 
 
 
 <!---
-Fale comigo no WhatsApp [clicando aqui](https://wa.me/qr/N7ZWKXS2XDGHL1)
 
 Ou escanei o qr code:
 
