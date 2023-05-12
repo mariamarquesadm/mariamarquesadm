@@ -1,7 +1,17 @@
 ---
 layout: default
 ---
+## Sobre Mim 
 
+Oi, eu sou Maria Aparecida Marques, Administradora de Empresas, especialista em gestão e aperfeiçoamento de pessoas com enfase em ofertas digitais.
+
+## Como eu posso te ajudar
+
+
+## Onde você pode me encontrar
+
+
+<!---
 Fale comigo no WhatsApp [clicando aqui](https://wa.me/qr/N7ZWKXS2XDGHL1)
 
 Ou escanei o qr code:
@@ -106,7 +116,7 @@ end
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
+-->
 
 ### Definition lists can be used with HTML syntax.
 
