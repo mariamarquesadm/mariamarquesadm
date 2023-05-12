@@ -2,7 +2,10 @@
 layout: default
 ---
 
-gh
+Ou escanei o qr code:
+
+![QR code](mariamarquesadm.github.io/images/wz.png)
+
 
 ## Sobre Mim 
 
