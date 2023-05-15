@@ -3,9 +3,8 @@ layout: default
 ---
 
 
-# Bio
-👩‍💼 Maria Aparecida Marques 
-Administração de Empresas
+# Maria Aparecida Marques
+👩‍💼 Administração de Empresas
 Gestão de Pessoas 
 Soluções Digitais 🌐
 Doutora em Ciências Ambientais 🌿 Orientadora de Estudos Internacionais 🌍 
