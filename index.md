@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Maria Aparecida Marques
-Esteja bem posicionado nas Mídias Sociais!
 
 # Bio
 👩‍💼 Maria Aparecida Marques 
