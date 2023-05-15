@@ -1,8 +1,14 @@
 ---
 layout: default
 ---
-
-👩‍💼 Maria Aparecida Marques | Administração de Empresas | Gestão de Pessoas | Soluções Digitais 🌐 | Doutora em Ciências Ambientais 🌿 | Orientadora de Estudos Internacionais 🌍 | Líder em Mídias Sociais para Divulgação Científica 🔬 | Transformando ciência em conhecimento acessível para todos 🚀
+### Bio
+👩‍💼 Maria Aparecida Marques 
+Administração de Empresas
+Gestão de Pessoas 
+Soluções Digitais 🌐
+Doutora em Ciências Ambientais 🌿 Orientadora de Estudos Internacionais 🌍 
+Líder em Mídias Sociais para Divulgação Científica 🔬 
+Transformando ciência em conhecimento acessível para todos 🚀
 
 
 ## Sobre Mim 
