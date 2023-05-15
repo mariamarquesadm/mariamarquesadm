@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Bio
+# Bio
 👩‍💼 Maria Aparecida Marques 
 Administração de Empresas
 Gestão de Pessoas 
