@@ -4,12 +4,13 @@ layout: default
 
 
 # Maria Aparecida Marques
+Se destacar na nova era digital só depende de você e eu te ajudo a trilhar este caminho.
+Líder em Mídias Sociais para Divulgação Científica 🔬 
+Transformando ciência em conhecimento acessível para todos 🚀
 👩‍💼 Administração de Empresas
 Gestão de Pessoas 
 Soluções Digitais 🌐
-Doutora em Ciências Ambientais 🌿 Orientadora de Estudos Internacionais 🌍 
-Líder em Mídias Sociais para Divulgação Científica 🔬 
-Transformando ciência em conhecimento acessível para todos 🚀
+Doutora em Ciências Ambientais 🌿 Orientação de Estudos Internacionais 🌍 
 
 
 ## Sobre Mim 
@@ -26,6 +27,7 @@ Aguardo ansiosamente a oportunidade de trabalhar com você. Entre em contato par
 
 
 ## Como eu posso te ajudar
+
 Como especialista em administração de empresas e gestão de pessoas, posso auxiliar você e sua organização a se adaptarem e prosperarem na era digital. Isso envolve desde a identificação e desenvolvimento de talentos até a implementação de estratégias digitais otimizadas que impulsionam o crescimento e a visibilidade da sua empresa.
 
 Com meu conhecimento em ciências ambientais e modelos matemáticos lineares, posso oferecer consultoria especializada em sistemas produtivos regenerativos. Minha experiência em congressos nacionais e internacionais me proporcionou uma perspectiva global, que eu posso usar para ajudar sua organização a desenvolver soluções sustentáveis e eficientes.
@@ -39,6 +41,8 @@ Estou aqui para apoiá-lo em sua jornada. Entre em contato para mais informaçõ
 
 ## Onde você pode me encontrar
 
+Me siga no Instagram @mariamarquesadm
+Você encontra material gratuito sobre posicionamento digital. 
 Você pode entrar em contato através do whatsaap.
 Fale comigo no WhatsApp [clicando aqui](https://wa.me/qr/N7ZWKXS2XDGHL1)
 
